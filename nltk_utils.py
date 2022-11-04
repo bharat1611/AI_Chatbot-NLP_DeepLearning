@@ -4,6 +4,7 @@ import numpy as np
 import nltk
 #nltk.download('punkt')
 from nltk.stem.porter import PorterStemmer 
+
 #can use different ones for different results
 stemmer = PorterStemmer()
 def tokenize(sentence):
