@@ -105,3 +105,19 @@ for epoch in range(num_epochs):
         print(f'epoch {epoch + 1}/{num_epochs}, loss = {loss.item() : .4f}')
 
 print(f'final loss, loss = {loss.item() : .4f}')
+
+# Saving Data from the model
+data = {
+    "model_state" : model.state_dict(),
+    "input_size" : input_size,
+    "output_size": output_size,
+    "hidden_size": hidden_size,
+    "all_words": all_words,
+    "tags": tags
+}
+
+# for pytorch
+FILE = "data.pth"
+torch.save(data, FILE)
+
+print(f'Training Complete, file saved to {FILE}')
