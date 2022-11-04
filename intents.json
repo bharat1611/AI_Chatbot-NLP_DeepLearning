@@ -1,7 +1,7 @@
 {
     "intents": [
       {
-        "tag": "greeting",
+        "tag": "Greeting",
         "patterns": [
           "Hi",
           "Hey",
@@ -13,36 +13,51 @@
         "responses": [
           "Hey :-)",
           "Hey, how can I help you?",
-          "ALright hey, what else?",
-          
+          "Alright hey, what else?",
+          "Tell me what happened",
           "If you're an Otaku, 'Yokoso, watashi no helper society'",
           "Hey gorgeous, what can I do for you"
         ]
       },
       {
-        "tag": "goodbye",
-        "patterns": ["Bye", "See you later", "Goodbye", "I'm gonna go", "ttyl"],
+        "tag": "Bye",
+        "patterns": ["Bye", "See you later", "Goodbye", "I'm gonna go", "Ttyl"],
         "responses": [
-          "See you later, thanks for visiting",
+          "See you later",
           "Have a nice day",
+          "Alright, take care my friend",
+          "Bye, keep your head up",
           "Bye! Come back again soon."
         ]
       },
       {
-        "tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-        "responses": ["Happy to help!", "Any time!", "My pleasure"]
-      },
-      {
-        "tag": "items",
+        "tag": "Thanks",
         "patterns": [
-          "Which items do you have?",
-          "What kinds of items are there?",
-          "What do you sell?"
+          "Thanks", 
+          "Thank you", 
+          "That's helpful", 
+          "Thanks a lot!"
         ],
         "responses": [
-          "We sell coffee and tea",
-          "We have coffee and tea"
+          "Glad I could help", 
+          "Anytime!",
+          "You're Welcome"]
+      },
+      {
+        "tag": "anxiety",
+        "patterns": [
+          "I have severe anxiety",
+          "I am restless and tense",
+          "I am breathing rapidly",
+          "I am confused all the time",
+          "I think I have ADHD",
+          "I have trouble concentrating and thinking about anything",
+          "Traumatic Agoraphobia"
+        ],
+        "responses": [
+          "I feel bad for you, try talking about your feelings to a friend, family member, health professional or counsellor",
+          "It's bad but we can help, try using calming breathing exercises",
+          ""
         ]
       },
       {
