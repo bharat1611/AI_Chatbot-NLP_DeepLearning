@@ -41,7 +41,8 @@
         "responses": [
           "Glad I could help", 
           "Anytime!",
-          "You're Welcome"]
+          "You're Welcome"
+        ]
       },
       {
         "tag": "anxiety",
@@ -56,17 +57,21 @@
         ],
         "responses": [
           "I feel bad for you, try talking about your feelings to a friend, family member, health professional or counsellor",
-          "It's bad but we can help, try using calming breathing exercises",
-          ""
+          "It's bad but we can help, try using calming breathing exercises.",
+          "It's bad, but identify the negative thought pattern you have, and work on it.",
+          "Even though I am a bot, I feel your uneasiness. Have you tried aromatherapy though?",
+          "It's really unforturnate, along with other things, try writing down your thoughts",
+          "I hope you're not on drugs, or anything of that sort. If you are, cut them down immediately. They aggravate anxiety"
+          
+
         ]
       },
       {
-        "tag": "payments",
+        "tag": "Not working",
         "patterns": [
-          "Do you take credit cards?",
-          "Do you accept Mastercard?",
-          "Can I pay with Paypal?",
-          "Are you cash only?"
+          "It's not working, i have tried everything",
+          "It doesn't work",
+          "I have tried it"
         ],
         "responses": [
           "We accept VISA, Mastercard and Paypal",
