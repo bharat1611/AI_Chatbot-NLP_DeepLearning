@@ -47,6 +47,7 @@
       {
         "tag": "anxiety",
         "patterns": [
+          "I feel bad",
           "I have severe anxiety",
           "I am restless and tense",
           "I am breathing rapidly",
@@ -61,9 +62,8 @@
           "It's bad, but identify the negative thought pattern you have, and work on it.",
           "Even though I am a bot, I feel your uneasiness. Have you tried aromatherapy though?",
           "It's really unforturnate, along with other things, try writing down your thoughts",
-          "I hope you're not on drugs, or anything of that sort. If you are, cut them down immediately. They aggravate anxiety"
-          
-
+          "I hope you're not on drugs, or anything of that sort. If you are, cut them down immediately. They aggravate anxiety",
+          "Remember, everything starts from inside. You decide who you are, and what you want to achieve"
         ]
       },
       {
@@ -71,11 +71,14 @@
         "patterns": [
           "It's not working, i have tried everything",
           "It doesn't work",
-          "I have tried it"
+          "I have tried it",
+          "That doesn't work"
         ],
         "responses": [
-          "We accept VISA, Mastercard and Paypal",
-          "We accept most major credit cards, and Paypal"
+          "It doesn't happen in one day, you have to be patient.",
+          "Don't worry, just be patient. It doesn't work overnight.",
+          "The person who never tries has 100% chance of failure, so don't stop trying.",
+          "Try taking a break and trying again, you'll achieve what you want someday."
         ]
       },
       {
