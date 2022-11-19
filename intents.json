@@ -71,26 +71,39 @@
         "patterns": [
           "It's not working, i have tried everything",
           "It doesn't work",
-          "I have tried it",
-          "That doesn't work"
+          "I have tried it before.",
+          "That doesn't work.",
+          "Nothing is working for me."
         ],
         "responses": [
           "It doesn't happen in one day, you have to be patient.",
           "Don't worry, just be patient. It doesn't work overnight.",
           "The person who never tries has 100% chance of failure, so don't stop trying.",
-          "Try taking a break and trying again, you'll achieve what you want someday."
+          "Try taking a break and trying again, you'll achieve what you want someday.",
+          "Consistency is key, be consistent and resilient towards your goals.",
+          "What ails you ? Can someone from your friends and family help?"
         ]
       },
       {
-        "tag": "delivery",
+        "tag": "depression",
         "patterns": [
-          "How long does delivery take?",
-          "How long does shipping take?",
-          "When do I get my delivery?"
+          "I feel like I'm lost",
+          "I am depressed",
+          "I feel no one cares about me",
+          "No one can relate to what I say",
+          "I don't care about anyone", 
+          "I am lonely", "I am sad",
+          "I cannot handle the pressure",
+          "My head is about to burst",
+           "I am restless and tense"
+
         ],
         "responses": [
-          "Delivery takes 2-4 days",
-          "Shipping takes 2-4 days"
+          "I completely understand your pain, try to write down the problems you're facing and handle them one by one",
+          "I feel bad for you, try talking about your feelings to a friend, family member, health professional or counsellor",
+          "It's okay to feel lost and sad, it's okay to cry too, but then get up better and stronger",
+          "Have you"
+
         ]
       },
       {
