@@ -108,7 +108,7 @@
           "Depression is basically when we use our free time to overthink. Don't do that, work on some hobby, some-thing you like, something that makes you happy",
           "May I suggest a song? Try listening to Vergil's Battle theme - Bury the light",
           "Write down your problems, if they are in your control, work on them and change them. If they are not in your control, forget about them. Stop overthinking about them",
-          ""
+          "Don't be too hard on yourself, everything will fall into place"
 
         ]
       },
@@ -117,11 +117,36 @@
         "patterns": [
           "Tell me a joke!",
           "Tell me something funny!",
-          "Do you know a joke?"
+          "Do you know a joke?",
+          "Funny","Joke","Make me laugh."
         ],
         "responses": [
-          "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-          "What did the buffalo say when his son left for college? Bison."
+          "Do you want to hear a construction joke? Sorry, I’m still working on it.",
+          "How does NASA organize a party? They planet.",
+          "Why were they called the “dark ages?”Because there were a lot of knights.",
+          
+            
+          
+          
+        ]
+      },
+      {
+        "tag": "Dark",
+        "patterns": [
+          "Can you tell me a dark joke?",
+          "Tell a dark joke",
+          "Share something dark and funny",
+          "A dark joke please?"
+        ],
+        "responses": [
+          "Today, I asked my phone “Siri, why am I still single?” and it activated the front camera.",
+          "I was digging in our garden and found a chest full of gold coins. I wanted to run straight home to tell my wife about it. Then I remembered why I was digging in our garden.",
+          "What does my dad have in common with Nemo? They both can’t be found.",
+          "Want to know how you make any salad into a caesar salad? Stab it twenty-three times.",
+          "Dark humour is like food, not everyone gets it",
+          "They laughed at my crayon drawing. I laughed at their chalk outline.",
+          "The cemetery is so crowded. People are just dying to get in",
+          "You don't need a parachute to go skydiving. You need a parachute to go skydiving twice.",
         ]
       }
     ]
