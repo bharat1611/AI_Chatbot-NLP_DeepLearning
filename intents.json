@@ -1,7 +1,7 @@
 {
     "intents": [
       {
-        "tag": "Greeting",
+        "tag": "greeting",
         "patterns": [
           "Hi",
           "Hey",
@@ -10,7 +10,8 @@
           "Hello",
           "Bonjour"
         ],
-        "responses": [
+        "responses": 
+        [
           "Hey :-)",
           "Hey, how can I help you?",
           "Alright hey, what else?",
@@ -20,7 +21,7 @@
         ]
       },
       {
-        "tag": "Bye",
+        "tag": "bye",
         "patterns": ["Bye", "See you later", "Goodbye", "I'm gonna go", "Ttyl"],
         "responses": [
           "See you later",
@@ -31,7 +32,7 @@
         ]
       },
       {
-        "tag": "Thanks",
+        "tag": "thanks",
         "patterns": [
           "Thanks", 
           "Thank you", 
@@ -100,7 +101,7 @@
 
         ],
         "responses": [
-          "I completely understand your pain, try to write down the problems you're facing and handle them one by one",
+          "I completely understand you, try to write down the problems you're facing and handle them one by one",
           "I feel bad for you, try talking about your feelings to a friend, family member, health professional or counsellor",
           "It's okay to feel lost and sad, it's okay to cry too, but then get up better and stronger",
           "Have you tried talking to a someone about this?",
@@ -146,7 +147,7 @@
           "Dark humour is like food, not everyone gets it",
           "They laughed at my crayon drawing. I laughed at their chalk outline.",
           "The cemetery is so crowded. People are just dying to get in",
-          "You don't need a parachute to go skydiving. You need a parachute to go skydiving twice.",
+          "You don't need a parachute to go skydiving. You need a parachute to go skydiving twice."
         ]
       }
     ]
